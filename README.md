@@ -34,6 +34,21 @@ I have completed online courses in:
 - Internet of Things
 - Cloud Computing
 
+## My Technical Skills
+
+| Skill | Current Status |
+|---|---|
+| C Programming | Learning |
+| Python | Learning |
+| SQL | Completed |
+| Git & GitHub | Learning |
+
+## Learning Resources
+
+- [GitHub](https://github.com)
+- [Python Documentation](https://docs.python.org/3/)
+- [W3Schools](https://www.w3schools.com/)
+
 ## My Journey
 
 This repository documents my learning progress, technical skills and projects throughout my four years of engineering.
